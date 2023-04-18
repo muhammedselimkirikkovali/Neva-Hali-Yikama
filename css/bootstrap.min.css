@@ -133,7 +133,7 @@ sup {
   top: -.5em; }
 
 a {
-  color: #960a00;
+  color: #fd7e14;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
@@ -7991,7 +7991,7 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #960a00 !important; }
+  color: #fd7e14 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #c35a02 !important; }

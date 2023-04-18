@@ -556,7 +556,7 @@ body:after {
     .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a {
       color: #000 !important; }
       .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a:hover, .sticky-wrapper.is-sticky .site-navbar .site-menu > li > a.active {
-        color: #960a00 !important; }
+        color: #fd7e14 !important; }
 
 /* Blocks */
 .site-blocks-cover {
@@ -1590,7 +1590,7 @@ body:after {
   text-transform: uppercase; }
 
 .section-title {
-  color: #960a00;
+  color: #fd7e14;
   font-size: 40px;
   font-weight: 900; }
   @media (max-width: 991.98px) {
